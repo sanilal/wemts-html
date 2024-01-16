@@ -4,21 +4,21 @@
    <head>
       <!-- meta tag -->
       <meta charset="utf-8">
-      <title>About WEM Technical Services - Demolition Services in UAE</title>
-      <meta name="description" content="WEM Technical services is a Demolition solution provider in Controlled Demolition, Concrete Cutting and Core Drilling works in UAE .">
+      <title>Certificates, Approvals, and Awards - WEM Technical Services: Leading Demolition Services in the UAE</title>
+      <meta name="description" content="Explore the accolades of WEM Technical Services, a distinguished Demolition solution provider specializing in Controlled Demolition, Concrete Cutting, and Core Drilling services in the UAE">
       <!-- responsive tag -->
       <meta http-equiv="x-ua-compatible" content="ie=edge">
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <!-- Schema.org markup for Google+ -->
-      <meta itemprop="name" content="About WEM Technical Services - Demolition Services in UAE">
-      <meta itemprop="description" content="WEM Technical services is a Demolition solution provider in Controlled Demolition, Concrete Cutting and Core Drilling works in UAE .">
+      <meta itemprop="name" content="Certificates, Approvals, and Awards - WEM Technical Services: Leading Demolition Services in the UAE">
+      <meta itemprop="description" content="Explore the accolades of WEM Technical Services, a distinguished Demolition solution provider specializing in Controlled Demolition, Concrete Cutting, and Core Drilling services in the UAE">
       <meta itemprop="image" content="http://www.wemts.com/images/about/about-wem-technical-services.webp">
       <!-- Open Graph data -->
-      <meta property="og:title" content="About WEM Technical Services - Demolition Services in UAE" />
+      <meta property="og:title" content="Certificates, Approvals, and Awards - WEM Technical Services: Leading Demolition Services in the UAE" />
       <meta property="og:type" content="article" />
       <meta property="og:url" content="http://www.wemts.com/" />
       <meta property="og:image" content="http://www.wemts.com/images/about/about-wem-technical-services.webp" />
-      <meta property="og:description" content="WEM Technical services is a Demolition solution provider in Controlled Demolition, Concrete Cutting and Core Drilling works in UAE ." />
+      <meta property="og:description" content="Explore the accolades of WEM Technical Services, a distinguished Demolition solution provider specializing in Controlled Demolition, Concrete Cutting, and Core Drilling services in the UAE" />
       <!-- favicon -->
       <link rel="apple-touch-icon" href="../images/touch-icon-iphone.png" />
       <link rel="apple-touch-icon" sizes="72x72" href="../../images/touch-icon-ipad.png" />
