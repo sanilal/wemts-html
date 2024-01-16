@@ -33,4 +33,7 @@ sitemap.xml
 # ignore downloads
 downloads/*
 
+#videos
+wem-corporate-video/*
+
 
