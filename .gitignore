@@ -1,0 +1,36 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+
+# ignore fonts
+fonts/*
+
+# ignore Newletter  
+emailer/*
+
+# ignore services, partners, blog, certificates, gallery, team and project images
+images/project/*
+images/project-details/*
+images/project-slider/*
+images/partner/*
+images/blog/*
+images/blog-details/*
+images/certificates/*
+images/clients/*
+images/gallery/*
+images/news/*
+images/services/*
+images/services-slider/*
+images/team/*
+images/testimonial/*
+
+# ignore robots & sitemap
+robots.txt
+sitemap.xml
+
+# ignore downloads
+downloads/*
+
+

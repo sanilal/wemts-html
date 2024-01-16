@@ -1,0 +1,5 @@
+RewriteCond %{HTTP_HOST} ^wemts.com$ [NC]
+RewriteRule (.*) http://www.wemts.com/$1 [R=301,L] 
+# php -- BEGIN cPanel-generated handler, do not edit
+# This domain inherits the “PHP” package.
+# php -- END cPanel-generated handler, do not edit
