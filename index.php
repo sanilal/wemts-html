@@ -171,30 +171,10 @@
             </div>
             <div class="row">
                <div class="col-lg-6 col-md-6 col-sm-12">
-                  <div id="about-slider" class="owl-carousel">
-                     <div> <img src="images/home2-slider/3.webp" alt="WEM Concrete Cutting" width="1317" height="994"></div>
-                     <div> <img src="images/home2-slider/4.webp" alt="Concrete Cutting Dubai" width="1317" height="994"></div>
-                     <div> <img src="images/home2-slider/2.webp" alt="Wem Technical Services" width="1317" height="994"></div>
-                     <div> <img src="images/home2-slider/5.webp" alt="Wem Technical Services UAE" width="1317" height="994"></div>
-                     <div> <img src="images/home2-slider/concrete-cutting-using-hilti-equipments.jpg" alt="Concrete cutting Services UAE" width="1317" height="994"></div>
-                     
-                     <div> <img src="images/home2-slider/concrete-saw-cutting2.jpg" alt="Concrete saw cutting Services Dubai" width="1317" height="994"></div>
-                     <div> <img src="images/home2-slider/concrete-wire-cutting.jpg" alt="Concrete wire cutting Services Dubai" width="1317" height="994"></div>
-                     <div> <img src="images/home2-slider/concrete-wire-cutting-1.jpg" alt="Concrete wire cutting Dubai" width="1317" height="994"></div>
-                     <div> <img src="images/home2-slider/concrete-wire-cutting-3.jpg" alt="Concrete wire cutting UAE" width="1317" height="994"></div>
-                     <div> <img src="images/home2-slider/wem-concrete-wire-cutting.jpg" alt="Concrete wire cutting Abu Dhabi" width="1317" height="994"></div>
-                     <div> <img src="images/home2-slider/concrete-saw-cutter.jpg" alt="Concrete saw cutting Abu Dhabi" width="1317" height="994"></div>
-                     <div> <img src="images/home2-slider/concrete-cutting-using-hilti-equipments1.jpg" alt="Concrete saw cutting Abu Dhabi" width="1317" height="994"></div>
-                     <div> <img src="images/home2-slider/concrete-cutting-using-hilti-equipments3.jpg" alt="Concrete saw cutting Abu Dhabi" width="1317" height="994"></div>
-                     <div> <img src="images/home2-slider/concrete-cutting-using-hilti-equipments4.jpg" alt="Concrete saw cutting Abu Dhabi" width="1317" height="994"></div>
-                     <div> <img src="images/home2-slider/concrete-cutting-using-hilti-equipments5.jpg" alt="Concrete saw cutting Abu Dhabi" width="1317" height="994"></div>
-                     <div> <img src="images/home2-slider/concrete-cutting-using-hilti-equipments6.jpg" alt="Concrete saw cutting Abu Dhabi" width="1317" height="994"></div>
-                     <div> <img src="images/home2-slider/concrete-cuttig-hilti-ds-bg-80.jpg" alt="Concrete saw cutting Abu Dhabi" width="1317" height="994"></div>
-                     
+               <div class="intro-vdo">
+    <iframe width="100%" height="350" src="https://www.youtube.com/embed/nNsqL3u9TXc?si=rGo0mWuTTTamDTdg&rel=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
-                     
-
-                  </div>
                </div>
                <div class="col-md-6 col-sm-12">
                
